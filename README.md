@@ -3,5 +3,5 @@ Demo data für KI Consultant
 
 Test
 
-name, land, alter,
-Jim, Schweden, 60
+name,land,alter,
+Jim,Schweden,60
